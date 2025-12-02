@@ -1129,9 +1129,12 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
             <div>
-              <div className="flex items-center gap-2 mb-4">
-                <Sun className="w-8 h-8 text-primary" />
-                <span className="text-2xl font-heading font-bold">HANDBALLSUN</span>
+              <div className="mb-4">
+                <img
+                  src="/HandballSun-txt.png"
+                  alt="Handball Sun Logo"
+                  className="h-12 w-auto"
+                />
               </div>
               <p className="text-secondary-foreground/80">
                 Najzabavniji rukometni ljetni kamp na Jadranu
