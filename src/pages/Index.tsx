@@ -130,11 +130,12 @@ const Index = () => {
       >
         <nav className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <Sun className="w-8 h-8 text-primary" />
-              <span className="text-2xl font-heading font-bold bg-gradient-sun bg-clip-text text-transparent">
-                HANDBALLSUN
-              </span>
+            <div className="flex items-center gap-3">
+              <img
+                src="/Gemini_Generated_Image_quk7vhquk7vhquk7.png"
+                alt="Handball Sun Logo"
+                className="h-10 w-auto"
+              />
             </div>
 
             {/* Desktop Navigation */}
@@ -1133,7 +1134,7 @@ const Index = () => {
                 <img
                   src="/HandballSun-txt.png"
                   alt="Handball Sun Logo"
-                  className="h-12 w-auto"
+                  className="h-20 w-auto"
                 />
               </div>
               <p className="text-secondary-foreground/80">
